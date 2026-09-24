@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/samsung/gtowifi/device.mk)
 
 PRODUCT_DEVICE := gtowifi
-PRODUCT_NAME := omni_gtowifi
+PRODUCT_NAME := twrp_gtowifi
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-T290
 PRODUCT_MANUFACTURER := samsung
